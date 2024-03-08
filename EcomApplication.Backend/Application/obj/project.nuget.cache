@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DCNIRddfens0Irmn1Z2VNHsVKerl3Mx/OzXKz2KKnYrhouu/bt3WGfYM0qPwGHP3esefG1X7ecXjo5u/pcq0A==",
+  "success": true,
+  "projectFilePath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\sonaranalyzer.visualbasic\\9.21.0.86780\\sonaranalyzer.visualbasic.9.21.0.86780.nupkg.sha512",
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

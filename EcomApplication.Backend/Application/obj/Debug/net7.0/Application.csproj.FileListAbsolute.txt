@@ -1,0 +1,15 @@
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\bin\Debug\net7.0\Application.deps.json
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\bin\Debug\net7.0\Application.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\bin\Debug\net7.0\Application.pdb
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\bin\Debug\net7.0\Domain.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\bin\Debug\net7.0\Domain.pdb
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\refint\Application.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\Application.pdb
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Application\obj\Debug\net7.0\ref\Application.dll

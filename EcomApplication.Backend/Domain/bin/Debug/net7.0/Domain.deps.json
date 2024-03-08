@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Domain/1.0.0": {
+        "dependencies": {
+          "SonarAnalyzer.VisualBasic": "9.21.0.86780"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "SonarAnalyzer.VisualBasic/9.21.0.86780": {}
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SonarAnalyzer.VisualBasic/9.21.0.86780": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZRQ01u4AmtLHG6813r0ujYPsxVJLjgHK1qj1LADj+AhsuVUMfxnHECPLQ0PvFUFLoPP6hDx9WfejgbM7Jr4ueQ==",
+      "path": "sonaranalyzer.visualbasic/9.21.0.86780",
+      "hashPath": "sonaranalyzer.visualbasic.9.21.0.86780.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\bin\Debug\net7.0\Domain.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\bin\Debug\net7.0\Domain.pdb
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\Domain.pdb
+D:\DayUsers\SushantBuche\Official\EcomApplication\EcomApplication.Backend\Domain\obj\Debug\net7.0\ref\Domain.dll

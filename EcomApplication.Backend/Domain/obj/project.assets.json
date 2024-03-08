@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SonarAnalyzer.VisualBasic/9.21.0.86780": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "SonarAnalyzer.VisualBasic/9.21.0.86780": {
+      "sha512": "ZRQ01u4AmtLHG6813r0ujYPsxVJLjgHK1qj1LADj+AhsuVUMfxnHECPLQ0PvFUFLoPP6hDx9WfejgbM7Jr4ueQ==",
+      "type": "package",
+      "path": "sonaranalyzer.visualbasic/9.21.0.86780",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/Google.Protobuf.dll",
+        "analyzers/SonarAnalyzer.CFG.dll",
+        "analyzers/SonarAnalyzer.VisualBasic.dll",
+        "analyzers/SonarAnalyzer.dll",
+        "images/sonarsource_64.png",
+        "license/THIRD-PARTY-NOTICES.txt",
+        "sonaranalyzer.visualbasic.9.21.0.86780.nupkg.sha512",
+        "sonaranalyzer.visualbasic.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SonarAnalyzer.VisualBasic >= 9.21.0.86780"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sushantbuche\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
+      "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "SonarAnalyzer.VisualBasic": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[9.21.0.86780, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
