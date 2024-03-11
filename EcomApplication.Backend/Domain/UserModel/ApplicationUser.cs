@@ -17,8 +17,6 @@ namespace Domain.Model
 
         [Required(ErrorMessage = "Password is required")]
         public string Password { get; set; }
-        public string EncryptedUsername {  get; set; }
-        public string EncryptedPassword { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
@@ -38,7 +36,9 @@ namespace Domain.Model
         public int StateId { get; set; }
         public int CountryId { get; set; }
 
+        public string? ResetPasswordOtp {  get; set; }
 
+        public string? LoginOtp {  get; set; }
         // Navigation properties
         //public State State { get; set; }
         //public Country Country { get; set; }

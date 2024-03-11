@@ -1,0 +1,38 @@
+.background {
+    background-color: #f0f0f0; /* Replace with your desired background color or image */
+    height: 100vh; /* Adjust as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .auth-container {
+    text-align: center;
+  }
+  
+  .big-button {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+    width: 200px; /* Adjust the button width as needed */
+    height: 70px; /* Adjust the button height as needed */
+    margin: 10px; /* Add space between the buttons */
+  }
+  
+  .primary {
+    color: white;
+    background-color: #1976D2; /* Set primary button background color */
+  }
+  
+  .accent {
+    color: white;
+    background-color: #FF4081; /* Set accent button background color */
+  }
+  
+  .big-button:hover {
+    transform: scale(1.1); /* Increase size on hover */
+    transition: transform 0.3s ease; /* Add transition effect */
+  }
+  
+  .primary:hover, .accent:hover {
+    cursor: pointer;
+  }
+  

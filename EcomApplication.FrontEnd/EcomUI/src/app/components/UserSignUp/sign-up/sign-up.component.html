@@ -1,0 +1,25 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <mat-card>
+          <mat-card-header>
+            <mat-card-title>User Registration Form</mat-card-title>
+          </mat-card-header>
+          <mat-card-content>
+            <form #userForm="ngForm" (ngSubmit)="onSubmit()" novalidate>
+              <mat-form-field class="form-group">
+                <input matInput placeholder="First Name" id="firstName" name="firstName" required [(ngModel)]="user.firstName">
+                <mat-error *ngIf="userForm.controls['firstName'].invalid && (userForm.controls['firstName'].dirty || userForm.controls['firstName'].touched)">
+                  First Name is required.
+                </mat-error>
+              </mat-form-field>
+              <!-- Repeat similar structure for other form fields -->
+              
+              <button mat-raised-button color="primary" type="submit" [disabled]="userForm.invalid">Submit</button>
+            </form>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+  

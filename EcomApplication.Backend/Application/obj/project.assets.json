@@ -449,11 +449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
-      "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\obj\\",
+      "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -470,8 +470,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj"
+            "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj"
             }
           }
         }

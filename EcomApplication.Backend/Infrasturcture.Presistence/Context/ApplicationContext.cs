@@ -2,7 +2,7 @@
 using Domain.Entity;
 using Domain.Model;
 using Domain.Model.CascadingData;
-using Infrasturcture.Presistence.Services;
+
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,11 +14,11 @@ namespace Infrasturcture.Presistence.Context
 {
     public class ApplicationContext: DbContext
     {
-        private readonly EncryptionService _encryptionService;
-        public ApplicationContext(DbContextOptions<ApplicationContext> dbContext, EncryptionService encryptionService
+      
+        public ApplicationContext(DbContextOptions<ApplicationContext> dbContext
                                     ):base(dbContext)
         {
-            _encryptionService = encryptionService;
+          
         }
 
         //user
@@ -59,7 +59,7 @@ namespace Infrasturcture.Presistence.Context
                      new State { Id = 6, StateName = "Shanghai", CountryId = 3 }
                       // Add more states for China as needed
                              );
-
+            
 
         }
 
@@ -131,22 +131,11 @@ namespace Infrasturcture.Presistence.Context
         //saving
         public override int SaveChanges()
         {
-          //  EncryptUserData();
+           
             return base.SaveChanges();
         }
-        //private void EncryptUserData()
-        //{
-        //    foreach (var entry in ChangeTracker.Entries<ApplicationUser>())
-        //    {
-        //        if (entry.State == EntityState.Added || entry.State == EntityState.Modified)
-        //        {
-        //            var user = entry.Entity;
-        //            user.EncryptedUsername = _encryptionService.Encrypt(user.Username);
-        //            user.EncryptedPassword = _encryptionService.Encrypt(user.Password);
-        //        }
-        //    }
-        //}
-     
+        
+
 
 
 

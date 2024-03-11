@@ -1,0 +1,15 @@
+<div class="popup-overlay">
+    <div class="popup">
+      <h2>Two Factor Authentication</h2>
+      <p>Please verify your identity using the OTP sent to your phone number ending in XXXX.</p>
+      <form (ngSubmit)="submitOTP()">
+        <div class="form-group">
+          <label for="otp">Enter OTP:</label>
+          <input type="text" id="otp" name="otp" [(ngModel)]="otp" required>
+        </div>
+        <button type="submit">Verify OTP</button>
+      </form>
+      <button class="close-btn" (click)="closePopup()">Close</button>
+    </div>
+  </div>
+  

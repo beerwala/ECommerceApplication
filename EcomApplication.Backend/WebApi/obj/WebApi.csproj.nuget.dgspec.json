@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
-        "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\obj\\",
+        "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
-        "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj": {
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj",
+        "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj",
         "projectName": "Infrasturcture.Presistence",
-        "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj",
+        "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj",
         "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
-        "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\obj\\",
+        "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
-                "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj"
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj"
+              },
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\Infrasturcture.shared.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\Infrasturcture.shared.csproj"
               }
             }
           }
@@ -190,6 +193,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.16, )"
@@ -209,6 +216,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.21.0.86780, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -231,14 +242,14 @@
         }
       }
     },
-    "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\Infrasturcture.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj",
-        "projectName": "WebApi",
-        "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\Infrasturcture.shared.csproj",
+        "projectName": "Infrasturcture.shared",
+        "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\Infrasturcture.shared.csproj",
         "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
-        "outputPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,11 +266,98 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
-                "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Application\\Application.csproj"
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\sushantbuche\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sushantbuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Application\\Application.csproj"
               },
-              "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj": {
-                "projectPath": "D:\\DayUsers\\SushantBuche\\Official\\EcomApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj"
+              "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj": {
+                "projectPath": "C:\\Users\\sushantbuche\\Desktop\\ECommerceApplication\\EcomApplication.Backend\\Infrasturcture.Presistence\\Infrasturcture.Presistence.csproj"
               }
             }
           }
@@ -277,6 +375,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.16, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

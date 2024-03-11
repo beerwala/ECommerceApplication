@@ -11,8 +11,13 @@ namespace Application.Interface.Repository
 {
     public interface IUserRepository:IGenericRepositoryAsync<ApplicationUser>
     {
-        Task UserRegistration(RegisterUserDTO user);
-        Task LoginUser(LoginDTO login);
-        Task ForgotPassword();
+        Task<Response<int>> UserRegistration(RegisterUserDTO user);
+        Task<Response<string>> LoginUser(LoginDTO login);
+
+        Task<Response<string>> AuthenticationLoginUser(string username,string code);
+        Task<Response<string>> SendResetPasswordOTP(ForgotPasswordDTO email);
+        Task<Response<string>> ResetPassword(ValidateOtpDTO otpDTO);
+        Task<Response<bool>> ChangeUserPassword(int userId, ChangePasswordDTO model);
+
     }
 }

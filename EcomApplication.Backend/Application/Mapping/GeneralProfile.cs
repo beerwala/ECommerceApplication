@@ -1,4 +1,5 @@
-﻿using Application.Features.Products.Command.Create;
+﻿using Application.DTO;
+using Application.Features.Products.Command.Create;
 using AutoMapper;
 using Domain.Entity;
 using System;
@@ -14,6 +15,7 @@ namespace Application.Mapping
         public GeneralProfile()
         {
             CreateMap<CreateProductCommand,Product>();
+            CreateMap<Product, ProductViewModel>().ReverseMap();
         }
     }
 }
